@@ -18,6 +18,6 @@ It briefly tests if you are familiar with the technologies we use at Ackee and y
 
 If you don't manage to solve the puzzle or have any questions, feel free to reach us at devops-hire email at domain ackee.cz
 
-# Enjoy hacking:)
+# Enjoy hacking :)
 
 [1]:	https://www.ackee.cz
