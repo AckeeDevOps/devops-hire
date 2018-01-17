@@ -2,9 +2,11 @@
 
 Welcome! Wanna join [Ackee][1]? Or you just don't know what to do on a lazy sunday afternoon?
 
-Here is a task for you! Solve our secret DevOps challenge. The goal itself is secret! All you need to know is:
+Here is a task for you! Solve our secret DevOps challenge. The goal itself is a secret! All you need to know is:
 - `docker pull ackee/devops-hire`
-- join the two secret strings together to proceed further
+- there are two secret strings somewhere
+- join them to one
+- follow next instructions
 
 ## Requirements 
 
