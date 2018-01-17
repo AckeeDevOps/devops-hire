@@ -20,4 +20,4 @@ If you don't manage to solve the puzzle or have any questions, feel free to reac
 
 # Enjoy hacking:)
 
-[1]:	https://ackee.cz
+[1]:	https://www.ackee.cz
